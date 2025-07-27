@@ -1,4 +1,4 @@
-# RSVP_Movi
+# RSVP_Movie
 
 ## 📌 Project Overview
 
